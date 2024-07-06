@@ -1,0 +1,6 @@
+org\example\student\stupack\StudentConfig.class
+org\example\student\stupack\StudentModel.class
+org\example\student\StudentApplication.class
+org\example\student\stupack\StudentService.class
+org\example\student\stupack\StudentRepository.class
+org\example\student\stupack\StudentController.class
